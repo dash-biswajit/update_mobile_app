@@ -1,0 +1,11 @@
+  {
+    "clearDataOnNextLaunch": "true",
+    "targetVersion": {
+      "android": "1.0.7",
+      "ios": "1.0.7"
+    },
+    "minimumVersion": {
+      "android": "1.0.7",
+      "ios": "1.0.7"
+    }
+}
